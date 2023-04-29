@@ -1,0 +1,17 @@
+{
+  "name": "demoga-project-cypress",
+  "version": "1.0.0",
+  "description": "Demo version Cypress automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaNaumova5/DEMOGA-project-Cypress.git"
+  },
+  "author": "Tatiana Naumova",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
